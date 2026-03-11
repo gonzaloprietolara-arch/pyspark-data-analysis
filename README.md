@@ -46,7 +46,5 @@ The objective is to perform distributed transformations and analytical queries o
 - Executing SQL-based analytical queries over temporary views
 - Transforming and enriching dataset columns
 
----
 
-## Repository Structure
 
